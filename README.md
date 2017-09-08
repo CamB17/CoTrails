@@ -11,16 +11,12 @@
 
 **Step 3:** Install the Application with `yarn` or `npm i`
 
+** Xcode is needed for app to run **
 
 ## :arrow_forward: How to Run App
 
-1. cd to the repo
-2. Run Build for either OS
-  * for iOS
-    * run `react-native run-ios`
-  * for Android
-    * Run Genymotion
-    * run `react-native run-android`
+1. cd into repo
+2. open ios/CoTrails.xcodeproj and hit "Run" button in Xcode
 
 ## Idea: 
 ###
